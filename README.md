@@ -1,2 +1,2 @@
-# dual_attention_RABONA-Net
-Dual-attenion-**R**(r)dn-g**A**n-**B**ased-**O**de-i**N**spired-runge-kutt**A**-Netowrk
+# Dual attention GAN with ODE inspired design for image super resolution
+COGS181 final project
